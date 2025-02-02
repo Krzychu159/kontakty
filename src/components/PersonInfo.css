@@ -1,0 +1,14 @@
+.buttons {
+  display: flex;
+  gap: 15px;
+  padding: 0 15px 0 15px;
+}
+button {
+  flex: 1;
+}
+li {
+  border: solid 1px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  padding: 12px 0 24px;
+}

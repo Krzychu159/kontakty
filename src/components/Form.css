@@ -1,0 +1,11 @@
+input {
+  margin-bottom: 15px;
+  padding: 15px;
+  width: 100%;
+}
+.active {
+  border-color: red;
+}
+.active button {
+  border-color: red;
+}
